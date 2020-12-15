@@ -359,5 +359,8 @@ long nowTime = System.currentTimeMillis();
 // long数据类型，获得的是从1970年开始到现在经过的毫秒数
 ```
 
+![](D:%5Cstudy%5CstudyGit%5Cpictures%5C1.PNG)
 
+<img src="D:%5Cstudy%5CstudyGit%5Cpictures%5C2.PNG" style="zoom:38%;" />
 
+<img src="https://gitee.com/SagaIridescent/pictures/raw/master/img/table_bg.jpg" style="zoom:25%;" />
